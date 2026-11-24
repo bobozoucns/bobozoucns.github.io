@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bobozoucns.github.io/sitemap.xml
